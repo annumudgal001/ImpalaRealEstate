@@ -1,0 +1,128 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "type": "Apartment",
+            "title": "TAMAC Business Bay Tower",
+            "location": "Business Bay",
+            "price": "AED 950,000",
+            "beds": 2,
+            "baths": 1,
+            "sqft": 1400,
+            "floor": 30,
+            "parking": 1,
+            "view": "Canal View",
+            "rating": 4.5,
+            "amenities": [
+                "Pool",
+                "Gym",
+                "Concierge"
+            ],
+            "image": "https://unsplash.it/400/300?image=1",
+            "featured": true
+        },
+        {
+            "id": 2,
+            "type": "Penthouse",
+            "title": "DAMAC JBR Beachfront",
+            "location": "JBR",
+            "price": "AED 1,800,000",
+            "beds": 3,
+            "baths": 2,
+            "sqft": 2200,
+            "floor": 20,
+            "parking": 2,
+            "view": "Beach View",
+            "rating": 4.7,
+            "amenities": [
+                "Beach Access",
+                "Pool",
+                "Gym"
+            ],
+            "image": "https://unsplash.it/400/300?image=2",
+            "featured": true
+        },
+        {
+            "id": 3,
+            "type": "Villa",
+            "title": "Emaar Luxury Penthouse",
+            "location": "Downtown Abu Dhabi",
+            "price": "AED 2,500,000",
+            "beds": 4,
+            "baths": 5,
+            "sqft": 3500,
+            "floor": 45,
+            "parking": 2,
+            "view": "Burj Khalifa View",
+            "rating": 4.8,
+            "amenities": [
+                "Pool",
+                "Gym",
+                "Concierge"
+            ],
+            "image": "https://unsplash.it/400/300?image=3",
+            "featured": false
+        }
+    ],
+    "areas": [
+        {
+            "name": "Downtown Abu Dhabi",
+            "description": "The heart of Abu Dhabi with iconic landmarks and luxury living",
+            "image": "https://unsplash.it/400/300?image=4",
+            "trending": true
+        },
+        {
+            "name": "Al Raha Beach",
+            "description": "Waterfront living with stunning beach views",
+            "image": "https://unsplash.it/400/300?image=5",
+            "trending": true
+        },
+        {
+            "name": "Saadiyat Island",
+            "description": "Ultra luxury living with private beach access",
+            "image": "https://unsplash.it/400/300?image=6",
+            "trending": false
+        }
+    ],
+    "popularProperties": [
+        {
+            "id": 4,
+            "type": "3BR Apartment",
+            "title": "Emaar Properties",
+            "location": "Downtown Abu Dhabi, Sheikh Zayed Mosque Area",
+            "price": "AED 2,500,000",
+            "beds": 3,
+            "baths": 2,
+            "sqft": 2200,
+            "image": "https://unsplash.it/400/300?image=7",
+            "featured": true
+        }
+    ],
+    "partners": [
+        {
+            "logo": "https://placehold.co/100x50/png?text=Developer1",
+            "name": "Developer Name",
+            "description": "Premium residential projects",
+            "founded": 2015,
+            "projects": 120
+        }
+    ],
+    "testimonials": [
+        {
+            "quote": "Impala helped me find my dream home!",
+            "author": "John Doe",
+            "rating": 5
+        }
+    ],
+    "agents": [
+        {
+            "name": "Jane Smith",
+            "title": "Senior Agent",
+            "image": "https://unsplash.it/200/200?image=10",
+            "languages": [
+                "English",
+                "Arabic"
+            ]
+        }
+    ]
+}

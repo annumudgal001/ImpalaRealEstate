@@ -18,7 +18,7 @@
                 "Gym",
                 "Concierge"
             ],
-            "image": "https://unsplash.it/400/300?image=1",
+            "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=400&h=300&fit=crop&crop=entropy&auto=format",
             "featured": true
         },
         {
@@ -39,7 +39,7 @@
                 "Pool",
                 "Gym"
             ],
-            "image": "https://unsplash.it/400/300?image=2",
+            "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&h=300&fit=crop&crop=entropy&auto=format",
             "featured": true
         },
         {
@@ -60,7 +60,7 @@
                 "Gym",
                 "Concierge"
             ],
-            "image": "https://unsplash.it/400/300?image=3",
+            "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=400&h=300&fit=crop&crop=entropy&auto=format",
             "featured": false
         }
     ],
@@ -68,20 +68,58 @@
         {
             "name": "Downtown Abu Dhabi",
             "description": "The heart of Abu Dhabi with iconic landmarks and luxury living",
-            "image": "https://unsplash.it/400/300?image=4",
-            "trending": true
+            "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=400&h=300&fit=crop&crop=entropy&auto=format",
+            "trending": true,
+            "propertyCount": 156,
+            "startingPrice": "AED 4,200,000"
         },
         {
             "name": "Al Raha Beach",
             "description": "Waterfront living with stunning beach views",
-            "image": "https://unsplash.it/400/300?image=5",
-            "trending": true
+            "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&h=300&fit=crop&crop=entropy&auto=format",
+            "trending": true,
+            "propertyCount": 89,
+            "startingPrice": "AED 2,800,000"
         },
         {
-            "name": "Saadiyat Island",
-            "description": "Ultra luxury living with private beach access",
-            "image": "https://unsplash.it/400/300?image=6",
-            "trending": false
+            "name": "Al Reem Island",
+            "description": "Perfect for families with excellent amenities",
+            "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=400&h=300&fit=crop&crop=entropy&auto=format",
+            "trending": true,
+            "propertyCount": 127,
+            "startingPrice": "AED 1,950,000"
+        },
+        {
+            "name": "Al Maryah Island",
+            "description": "Modern business district with waterfront properties",
+            "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=400&h=300&fit=crop&crop=entropy&auto=format",
+            "trending": false,
+            "propertyCount": 203,
+            "startingPrice": "AED 3,100,000"
+        },
+        {
+            "name": "Yas Island",
+            "description": "Exclusive villa community with entertainment and golf",
+            "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&h=300&fit=crop&crop=entropy&auto=format",
+            "trending": false,
+            "propertyCount": 75,
+            "startingPrice": "AED 5,200,000"
+        },
+        {
+            "name": "Corniche",
+            "description": "Great investment opportunity with waterfront connectivity",
+            "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=400&h=300&fit=crop&crop=entropy&auto=format",
+            "trending": true,
+            "propertyCount": 189,
+            "startingPrice": "AED 1,800,000"
+        },
+        {
+            "name": "Al Bateen",
+            "description": "Master-planned community with world-class amenities",
+            "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=400&h=300&fit=crop&crop=entropy&auto=format",
+            "trending": true,
+            "propertyCount": 94,
+            "startingPrice": "AED 2,400,000"
         }
     ],
     "popularProperties": [

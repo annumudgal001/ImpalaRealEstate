@@ -124,43 +124,217 @@
     ],
     "popularProperties": [
         {
-            "id": 4,
-            "type": "3BR Apartment",
-            "title": "Emaar Properties",
+            "id": 1,
+            "type": "Apartments",
+            "developer": "Emaar Properties",
+            "title": "3BR Apartment for Sale",
             "location": "Downtown Abu Dhabi, Sheikh Zayed Mosque Area",
             "price": "AED 2,500,000",
             "beds": 3,
             "baths": 2,
-            "sqft": 2200,
+            "sqft": 2100,
             "image": "https://unsplash.it/400/300?image=7",
-            "featured": true
+            "featured": true,
+            "year": 2025
+        },
+        {
+            "id": 2,
+            "type": "Villas",
+            "developer": "Nakheel",
+            "title": "Saadiyat Cultural District",
+            "location": "Saadiyat Island, Cultural District",
+            "price": "Starting from AED 4,200,000",
+            "beds": 4,
+            "baths": 3,
+            "sqft": 3500,
+            "image": "https://unsplash.it/400/300?image=8",
+            "featured": false,
+            "year": 2026
+        },
+        {
+            "id": 3,
+            "type": "Offices",
+            "developer": "Emaar Properties",
+            "title": "Modern Office Space",
+            "location": "Al Maryah Island, Financial District",
+            "price": "AED 1,800,000",
+            "beds": 0,
+            "baths": 2,
+            "sqft": 1200,
+            "image": "https://unsplash.it/400/300?image=9",
+            "featured": true,
+            "year": 2024
+        },
+        {
+            "id": 4,
+            "type": "Townhouses",
+            "developer": "Abu Dhabi Properties",
+            "title": "Family Townhouse",
+            "location": "Al Reem Island",
+            "price": "AED 1,200,000",
+            "beds": 4,
+            "baths": 3,
+            "sqft": 1800,
+            "image": "https://unsplash.it/400/300?image=10",
+            "featured": true,
+            "year": 2025
+        },
+        {
+            "id": 5,
+            "type": "Apartments",
+            "developer": "Nakheel",
+            "title": "2BR Apartment with Beach View",
+            "location": "Al Raha Beach, Beach Walk",
+            "price": "AED 1,800,000",
+            "beds": 2,
+            "baths": 2,
+            "sqft": 1650,
+            "image": "https://unsplash.it/400/300?image=11",
+            "featured": false,
+            "year": 2023
+        },
+        {
+            "id": 6,
+            "type": "Villas",
+            "developer": "Emaar Properties",
+            "title": "Yas Island Entertainment District",
+            "location": "Yas Island, Golf Course",
+            "price": "Starting from AED 2,800,000",
+            "beds": 5,
+            "baths": 4,
+            "sqft": 4000,
+            "image": "https://unsplash.it/400/300?image=12",
+            "featured": true,
+            "year": 2024
         }
     ],
     "partners": [
         {
-            "logo": "https://placehold.co/100x50/png?text=Developer1",
-            "name": "Developer Name",
+            "logo": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800&h=600&fit=crop&crop=entropy&auto=format",
+            "name": "MERAAS",
+            "description": "Innovative lifestyle destinations",
+            "founded": 2019,
+            "projects": 200
+        },
+        {
+            "logo": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop&crop=entropy&auto=format",
+            "name": "SOBHA RI",
             "description": "Premium residential projects",
             "founded": 2015,
+            "projects": 80
+        },
+        {
+            "logo": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=800&h=600&fit=crop&crop=entropy&auto=format",
+            "name": "NAKHEEL",
+            "description": "Master community development",
+            "founded": 2015,
             "projects": 120
+        },
+        {
+            "logo": "https://images.unsplash.com/photo-1494526585095-c41746248156?w=800&h=600&fit=crop&crop=entropy&auto=format",
+            "name": "AZIZI DEV",
+            "description": "Contemporary urban living",
+            "founded": 2015,
+            "projects": 100
         }
     ],
     "testimonials": [
         {
-            "quote": "Impala helped me find my dream home!",
-            "author": "John Doe",
-            "rating": 5
+            "quote": "Exceptional service from start to finish. The team helped me find the perfect investment property in Abu Dhabi Marina. Their market knowledge is unmatched.",
+            "author": "Sarah Johnson",
+            "role": "Property Investor",
+            "rating": 5,
+            "image": "https://unsplash.it/100/100?image=13"
+        },
+        {
+            "quote": "I was a first-time homebuyer, and the entire process was smooth and stress-free. They explained every step clearly and found me the ideal apartment.",
+            "author": "Ahmed Al Mansoori",
+            "role": "First-Time Buyer",
+            "rating": 5,
+            "image": "https://unsplash.it/100/100?image=14"
+        },
+        {
+            "quote": "Their team goes above and beyond. I was able to sell my villa at a great price within just two weeks. Highly recommended!",
+            "author": "Priya Sharma",
+            "role": "Home Seller",
+            "rating": 4.8,
+            "image": "https://unsplash.it/100/100?image=15"
+        },
+        {
+            "quote": "Excellent communication and transparency throughout. I now own two rental properties thanks to their investment advice.",
+            "author": "David Chen",
+            "role": "Real Estate Investor",
+            "rating": 4.9,
+            "image": "https://unsplash.it/100/100?image=16"
+        },
+        {
+            "quote": "Their agents really understand the local market. I secured a prime office space in Al Maryah Island with favorable terms.",
+            "author": "Lina Haddad",
+            "role": "Business Owner",
+            "rating": 5,
+            "image": "https://unsplash.it/100/100?image=17"
         }
     ],
     "agents": [
         {
-            "name": "Jane Smith",
-            "title": "Senior Agent",
+            "name": "Sarah Johnson",
+            "title": "Senior Real Estate Agent",
             "image": "https://unsplash.it/200/200?image=10",
             "languages": [
                 "English",
                 "Arabic"
-            ]
+            ],
+            "rating": 4.9,
+            "reviews": 127,
+            "experience": "8+ years",
+            "specialties": [
+                "Luxury Homes",
+                "Investment Properties",
+                "First-Time Buyers"
+            ],
+            "area": "Downtown District",
+            "phone": "+1 (555) 123-4567",
+            "email": "sarah.johnson@realty.com"
+        },
+        {
+            "name": "Michael Chen",
+            "title": "Commercial Property Specialist",
+            "image": "https://unsplash.it/200/200?image=11",
+            "languages": [
+                "English",
+                "Mandarin"
+            ],
+            "rating": 4.8,
+            "reviews": 89,
+            "experience": "12+ years",
+            "specialties": [
+                "Commercial Real Estate",
+                "Office Spaces",
+                "Retail Properties"
+            ],
+            "area": "Business District",
+            "phone": "+1 (555) 234-5678",
+            "email": "michael.chen@realty.com"
+        },
+        {
+            "name": "Emily Rodriguez",
+            "title": "Residential Specialist",
+            "image": "https://unsplash.it/200/200?image=12",
+            "languages": [
+                "English",
+                "Spanish"
+            ],
+            "rating": 4.7,
+            "reviews": 156,
+            "experience": "6+ years",
+            "specialties": [
+                "Property Investment",
+                "Portfolio Management",
+                "Market Analysis"
+            ],
+            "area": "Suburban Areas",
+            "phone": "+1 (555) 345-6789",
+            "email": "emily.rodriguez@realty.com"
         }
     ]
 }
